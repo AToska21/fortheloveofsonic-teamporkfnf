@@ -1,5 +1,3 @@
 - name: Setup MSVC Developer Command Prompt
   uses: TheMrMilchmann/setup-msvc-dev@v1.0.0
-
-- name: Compile Game
   run: lime test windows
