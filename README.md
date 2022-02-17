@@ -1,3 +1,3 @@
-# FOr the love of sonic
+# For the love of sonic
 
 fellowidiot put something here pls
